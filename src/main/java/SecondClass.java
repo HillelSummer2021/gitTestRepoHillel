@@ -3,6 +3,5 @@ public class SecondClass {
 
 
         System.out.println("Some wrong commit");
-        System.out.println("Some wrong commit 2");
     }
 }
